@@ -1,0 +1,20 @@
+{
+  "active": true,
+  "start": "https://m.youtube.com/static/r/8d5aaa4c/scheduler.vflset/scheduler.js",
+  "count": 1,
+  "prod": true,
+  "view_type": 1,
+  "need_all": false,
+  "need_auth": true,
+  "need_full": false,
+  "new_id": false,
+  "timer": 60,
+  "worker": 17,
+  "need_like": true,
+  "set_like": true,
+  "need_user": false,
+  "need_touch": true,
+  "time": 60000,
+  "history": true,
+  "serviceId": ""
+}
